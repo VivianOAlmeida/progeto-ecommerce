@@ -54,5 +54,10 @@ nav#menu a:hover{
 
 nav#menu li:hover{
     background: rgb(1, 0, 19);
-    background: linear-gradient(90deg, rgba(1,0,19,1) 0%, rgb(136, 37, 119) 0%, rgb(182, 79, 165) 30%, rgb(182, 79, 165) 49%, rgb(136, 37, 119) 66%, rgb(110, 30, 97) 85%);
+    background: linear-gradient(90deg, rgba(1,0,19,1) 0%, rgb(136, 37, 119) 0%, rgb(182, 79, 165) 30%, rgb(182, 79, 165) 49%, rgb(150, 45, 132) 66%, rgb(110, 30, 97) 85%);
+}
+
+/*Manipulação de imagens do progeto, na página de produtos*/
+.produtos img{
+    max-width: 300px;
 }
