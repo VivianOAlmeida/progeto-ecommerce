@@ -24,8 +24,7 @@ nav#menu li{
 }
 
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(161,44,141,1) 0%, rgba(207,91,187,1) 30%, rgba(241,154,226,1) 49%, rgba(207,91,187,1) 66%, rgba(161,44,141,1) 85%);
+    background-color: blueviolet;
 }
 
 header{
